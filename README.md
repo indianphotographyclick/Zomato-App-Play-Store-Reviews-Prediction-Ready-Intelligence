@@ -1,6 +1,4 @@
-𝐙𝐨𝐦𝐚𝐭𝐨 𝐀𝐩𝐩 𝐏𝐥𝐚𝐲 𝐒𝐭𝐨𝐫𝐞 𝐑𝐞𝐯𝐢𝐞𝐰𝐬 𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧 𝐑𝐞𝐚𝐝𝐲 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞
-
-**🚀 Zomato App Play Store Reviews Processing Pipeline: From Raw Data to Prediction-Ready Intelligence**
+🚀 𝐙𝐨𝐦𝐚𝐭𝐨 𝐀𝐩𝐩 𝐏𝐥𝐚𝐲 𝐒𝐭𝐨𝐫𝐞 𝐑𝐞𝐯𝐢𝐞𝐰𝐬 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 𝐏𝐢𝐩𝐞𝐥𝐢𝐧𝐞: 𝐅𝐫𝐨𝐦 𝐑𝐚𝐰 𝐃𝐚𝐭𝐚 𝐭𝐨 𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧-𝐑𝐞𝐚𝐝𝐲 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞
 
 **📊 Extracting insights & the most influential cellular characteristics.**
 
